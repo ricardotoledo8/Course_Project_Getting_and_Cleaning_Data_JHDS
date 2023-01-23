@@ -39,3 +39,5 @@ subject_train <- tbl_df(read.table("./data/UCI HAR Dataset/train/subject_train.t
 x_test <- tbl_df(read.table("./data/UCI HAR Dataset/test/X_test.txt"))
 y_test <- tbl_df(read.table("./data/UCI HAR Dataset/test/y_test.txt"))
 subject_test <- tbl_df(read.table("./data/UCI HAR Dataset/test/subject_test.txt"))
+
+
