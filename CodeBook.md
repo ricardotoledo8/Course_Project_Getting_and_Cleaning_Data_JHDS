@@ -79,3 +79,5 @@ And it performs 5 steps above:
 *features* contains the correct names for the *x_train* and *x_test* dataset, which are applied to the column names stored in.
 
 *activity_labels* contains the id and activity names for activities.
+
+*tidy_data.txt* the output of R Script with the tidy data set.
